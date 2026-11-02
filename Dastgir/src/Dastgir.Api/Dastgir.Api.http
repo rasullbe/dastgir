@@ -1,0 +1,6 @@
+@Dastgir.Api_HostAddress = http://localhost:5193
+
+GET {{Dastgir.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

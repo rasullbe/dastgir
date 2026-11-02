@@ -1,0 +1,5 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/Dastgir.Api/Dastgir.Api.csproj" />
+  </Folder>
+</Solution>
